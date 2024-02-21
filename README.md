@@ -1,4 +1,7 @@
 
+----------------------------------------
+
+
 Welcome to my default Data Project Repo.
 
 To use this project structure you will need to follow the steps below.
@@ -18,8 +21,8 @@ To learn how to manage multiple python versions using pyenv, check [this article
 ## Git Clone
 Open a terminal window (cmd, bash, or anything with git commands) and type:
 ```bash
-git clone https://github.com/alanceloth/myDefaultDataProject.git [NEW_PROJECT_NAME]
-cd [NEW_PROJECT_NAME]
+git clone https://github.com/alanceloth/mBootcamp_JornadaDeDados_03.git
+cd Bootcamp_JornadaDeDados_03
 git init
 ```
 
